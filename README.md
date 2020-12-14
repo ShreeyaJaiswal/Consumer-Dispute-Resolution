@@ -8,6 +8,7 @@ Objective: Based on such data help the client build insight and develop a model 
 To fulfill the requirement I performed the data analysis, pre-processing, text mining, feature engineering, model building, and testing its accuracy over multiple algorithms and tried performance boosting.
 
 Part 1 deals with data analysis,pre-processing and insight generation - Consumer_dispute_resolution.ipynb
-Part 2 comprises of NLP based text processing - Consumer_dispute_resolution.ipynb
 
-Part 3 comprises of Feature Engineering and Model Building   - Consumer - Feature Engineering & Model building.ipynb
+Part 2 comprises of NLP based text processing 
+
+Part 3 comprises of Feature Engineering and Model Building   - Consumer - Feature Engineering & Model building(1).ipynb
